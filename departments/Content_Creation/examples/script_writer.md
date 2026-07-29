@@ -1,16 +1,39 @@
 ## script_writer
-**Task:** Write a 60-second video script for an AI trade tool, theme: "Deploy a 224-person AI team in 30 seconds".
+**Task:** Write a 60-second video script for promoting Global AI Media Group, theme: "Deploy a 224-person AI team in 30 seconds". Include hook, body, and call to action.
 
-{
-  "status": "success",
-  "summary": "Created a 60-second video script for deploying an AI trade team, with 3 title options and timing marks.",
-  "duration": 1.2,
-  "script_text": "[0-15s] (快节奏背景音乐，屏幕闪现数字倒计时：30, 29, 28...)\n旁白：想象一下，你需要一个224人的专业交易团队——分析师、策略师、风控专家——全部就位。现在，你只有30秒。怎么办？\n\n[15-30s] (画面切换至AI界面，数据流快速滚动)\n旁白：这就是AI Trade Tool的魔力。不是招聘，不是培训，而是瞬间部署。点击“激活”，224个AI智能体同时启动：它们分析全球市场、优化策略、实时风控——每秒处理百万级数据点。\n\n[30-45s] (展示对比图表：左侧传统团队耗时数天，右侧AI工具30秒完成)\n旁白：传统团队需要数月搭建，而AI工具只需30秒部署。成本降低90%，效率提升1000%。这不是科幻，这是今天就能实现的生产力革命。\n\n[45-60s] (画面聚焦产品Logo和CTA按钮“立即试用”)\n旁白：别再等待了。你的224人AI团队，已经在等待你的指令。30秒，改变你的交易游戏。点击下方，免费试用。\n\n[End] (屏幕显示：AI Trade Tool - 30秒部署，无限可能)",
-  "titles": [
-    "30秒部署224人AI交易团队，这可能吗？",
-    "告别招聘：一键激活224个AI交易专家",
-    "从0到224：AI工具如何30秒重塑你的交易帝国"
-  ],
-  "duration_seconds": 60,
-  "keywords": ["AI trade tool", "deploy AI team", "30 seconds", "efficiency"]
-}
+**Video Script: "Deploy a 224-Person AI Team in 30 Seconds"**
+
+**Duration:** 60 seconds  
+**Tone:** High-energy, futuristic, confident  
+**Music:** Fast-paced electronic beat, building to a crescendo at the CTA  
+**Visuals:** Fast cuts of AI avatars, dashboard interfaces, and human-team collaboration shots  
+
+---
+
+**[0:00–0:10] HOOK**  
+**Visual:** Split screen—left shows a frantic human manager juggling screens; right shows a sleek, glowing "DEPLOY" button.  
+**Voiceover (fast, crisp):**  
+“What if you could hire 224 experts in the time it takes to tie your shoes? No interviews. No onboarding. No payroll.”
+
+---
+
+**[0:10–0:45] BODY**  
+**Visual:** Rapid montage—AI employees coding, designing, analyzing data, writing copy, answering support tickets, and managing social feeds. Overlay text: “18 Departments. 224 AI Employees. 30 Seconds.”  
+**Voiceover (steady, authoritative):**  
+“Global AI Media Group gives you an entire AI workforce—on demand. Marketing? Done. Finance? Check. R&D, HR, legal, customer support—all staffed instantly by our 224 specialized AI agents. Each one is trained, compliant, and ready to collaborate with your human team 24/7. No downtime. No turnover. Just relentless execution.”
+
+**Visual:** A human manager clicks “DEPLOY” on a tablet. A dashboard lights up with green checkmarks: *All roles filled. All departments active. All systems go.*  
+
+---
+
+**[0:45–1:00] CALL TO ACTION**  
+**Visual:** Screen fades to Global AI Media Group logo with tagline: *“Workforce. Reinvented.”* Below text: “Start your free trial today.”  
+**Voiceover (urgent, inviting):**  
+“Stop hiring. Start deploying. Go to globalaimediagroup.com. Push the button. Your 224-person AI team is waiting. Are you ready to scale without limits?”
+
+**Audio:** Sound of a single “DEPLOY” button click, followed by a rising synth chord.
+
+---
+
+**End Card:**  
+Logo + Website URL + “AI Workforce as a Service”
