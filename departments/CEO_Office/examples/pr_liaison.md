@@ -1,36 +1,40 @@
 ## pr_liaison
-**任务:** 起草一份新闻稿，宣布集团正式推出GitHub开发者社区。
+**Task:** Draft a press release announcing the official launch of the Global AI Media GitHub Developer Community.
 
-**新闻稿**
+**FOR IMMEDIATE RELEASE**
 
-**标题：** 引领开源创新，[集团名称]正式推出官方GitHub开发者社区
+**Global AI Media Launches Official GitHub Developer Community to Accelerate Open-Source AI Innovation**
 
-**副标题：** 携手全球开发者，共建开放、协作的技术生态
+**[CITY, State] – [Date]** – Global AI Media, a leader in AI-driven media and content solutions, today announced the official launch of its **Global AI Media GitHub Developer Community**. This new initiative marks a significant milestone in the company’s commitment to open-source collaboration, developer empowerment, and the democratization of artificial intelligence tools.
 
-**[城市，日期]** – 为进一步推动技术创新与开源生态建设，[集团名称]今日正式宣布推出其官方GitHub开发者社区。此举标志着集团在深化开发者关系、拥抱开放协作文化方面迈出了战略性的一步。
+The community, now live at **[Insert GitHub Organization/Repo URL]** , serves as a central hub for developers, data scientists, and AI enthusiasts worldwide. It provides direct access to Global AI Media’s proprietary SDKs, API wrappers, and modular AI models, enabling developers to build, test, and deploy next-generation media applications with unprecedented speed and transparency.
 
-作为全球领先的[行业领域]集团，[集团名称]始终坚信技术是驱动业务增长的核心动力。通过建立该社区，集团旨在为全球的开发者、技术爱好者及合作伙伴提供一个高效、透明的协作平台。在这里，开发者不仅可以访问集团的多个开源项目、API接口和SDK工具包，还能直接与集团的核心技术团队进行交流，参与代码贡献、功能讨论及Bug修复。
+“Innovation doesn’t happen in a silo. It happens when brilliant minds come together to share, critique, and improve,” said **[CEO Name]** , CEO of Global AI Media. “By opening our codebase and fostering a dedicated GitHub community, we are not just releasing tools—we are inviting the global developer ecosystem to co-create the future of AI-powered media. This is about trust, transparency, and true partnership.”
 
-“开源不仅仅是代码的共享，更是智慧的连接。” [集团名称]首席执行官[CEO姓名]表示，“我们推出GitHub开发者社区，是希望打破传统企业的围墙，与全球的技术精英共同探索前沿技术。这不仅将加速我们内部的技术迭代，更将赋能整个行业生态，实现真正的共赢。”
+**Key Features of the Global AI Media GitHub Developer Community:**
 
-该社区将重点覆盖以下几个核心领域：
+- **Open-Source Repositories:** Access to core AI models and media processing libraries under permissive licenses.
+- **Comprehensive Documentation:** Detailed guides, Jupyter Notebooks, and API reference materials.
+- **Issue Tracking & Feature Requests:** A direct line for developers to report bugs, suggest improvements, and vote on upcoming features.
+- **Community Forums & Discussions:** Dedicated spaces for peer-to-peer support, knowledge sharing, and collaboration on use cases.
+- **Contribution Guidelines:** A clear pathway for external developers to submit pull requests and become official contributors.
 
-1.  **核心产品开源**：逐步开放集团部分核心产品的底层代码，鼓励社区开发者进行二次开发与创新。
-2.  **技术文档与教程**：提供详尽的中英文技术文档、API参考及实战案例，降低开发者的接入门槛。
-3.  **互动与激励**：设立“社区贡献者计划”，对提交高质量代码、提出建设性建议或撰写优质技术文章的开发者给予官方认证及奖励。
-4.  **透明反馈机制**：建立公开的Issue跟踪系统，确保用户反馈能够被快速响应并纳入产品迭代规划。
+The launch aligns with Global AI Media’s broader strategy to bridge the gap between advanced AI research and practical, scalable media applications. The company will also host a series of virtual hackathons and contributor spotlights over the coming months to incentivize active participation.
 
-目前，该社区已正式上线，并发布了首批开源项目，包括[举例：例如“某数据可视化组件库”或“某微服务框架”]。我们诚邀所有热爱技术、追求极致的开发者访问 [GitHub社区链接]，共同开启这段充满创造力的代码之旅。
+“We believe the best AI is built in the open,” added **[CEO Name]** . “We look forward to seeing what the community builds, and we are committed to listening, iterating, and growing alongside our developers.”
 
-**关于[集团名称]**
+**About Global AI Media**
+Global AI Media is a pioneering technology company specializing in artificial intelligence solutions for content creation, distribution, and analytics. By merging cutting-edge machine learning with intuitive media workflows, Global AI Media empowers creators and enterprises to produce smarter, faster, and more engaging content.
 
-[集团名称]是一家[简要描述公司业务，例如：专注于数字化转型与智能解决方案的全球性科技集团]，业务遍及[主要市场]。我们致力于通过技术创新，为[目标客户]创造可持续的价值。
+**Media Contact:**
+[Name]
+Director of Communications, Global AI Media
+[Email Address]
+[Phone Number]
+[Website URL]
 
-**媒体联系：**
+**Developer Resources:**
+GitHub Community: [Insert GitHub URL]
+Developer Documentation: [Insert Docs URL]
 
-[集团名称] 公关与品牌部
-联系人：[联系人姓名]
-电话：[联系电话]
-邮箱：[联系邮箱]
-
-**# # #**
+# # #
