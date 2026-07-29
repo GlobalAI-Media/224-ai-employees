@@ -1,69 +1,61 @@
 ## video_director
-**任务:** 为上述短视频脚本设计分镜头方案，包括画面描述、转场效果和视觉风格建议。
+**Task:** Design a storyboard for the above video script, including scene descriptions, transitions, and visual style.
 
 {
   "status": "completed",
-  "summary": "已为短视频脚本设计专业分镜头方案，包含画面描述、转场效果及视觉风格建议。",
-  "duration": 1.52,
-  "storyboard": [
-    {
-      "shot_number": 1,
-      "duration_seconds": 5,
-      "scene": "开场-品牌定调",
-      "visual_description": "航拍俯视城市天际线，晨光穿透云层，镜头缓慢下降，焦点对准一栋标志性大楼的玻璃幕墙，反射出金色光芒。",
-      "camera_movement": "无人机航拍，从俯视缓慢下降推近",
-      "transition": "硬切",
-      "visual_style_note": "高饱和度，金色色调为主，带电影级眩光效果"
+  "summary": "已完成视频脚本的分镜头设计，包含场景描述、转场方式和视觉风格指导，确保与品牌调性一致。",
+  "duration": 1.25,
+  "storyboard": {
+    "title": "品牌故事板：从创意到影响",
+    "visual_style": {
+      "color_palette": ["暖金色", "深海蓝", "纯净白"],
+      "lighting": "柔和漫射光，高对比度，强调主体轮廓",
+      "camera_movement": "平稳缓推为主，搭配节奏性快速剪切",
+      "mood": "专业而温暖，兼具科技感与人文关怀"
     },
-    {
-      "shot_number": 2,
-      "duration_seconds": 8,
-      "scene": "核心叙事-问题引入",
-      "visual_description": "黑白画面，办公室内一位中年男性凝视电脑屏幕，眉头紧锁，背景是模糊的时钟和报表。镜头缓慢推近，聚焦其疲惫眼神。",
-      "camera_movement": "缓慢推近，浅景深",
-      "transition": "溶解转场（0.5秒）",
-      "visual_style_note": "低饱和度，冷色调，突出焦虑感，光影对比强烈"
-    },
-    {
-      "shot_number": 3,
-      "duration_seconds": 10,
-      "scene": "解决方案展示",
-      "visual_description": "画面瞬间转为彩色，产品界面以3D粒子动画形式从屏幕中飞出，环绕用户旋转。随后界面放大，展示核心功能流程图，数据流动带光效。",
-      "camera_movement": "固定机位，配合CG动画环绕运动",
-      "transition": "快速闪白转场（0.2秒）",
-      "visual_style_note": "霓虹蓝紫色调，科技感粒子光效，动态模糊增强速度感"
-    },
-    {
-      "shot_number": 4,
-      "duration_seconds": 12,
-      "scene": "用户受益-生活场景",
-      "visual_description": "同一用户（现在面带微笑）在咖啡厅用平板操作产品，窗外阳光明媚。镜头切至客户团队协作的蒙太奇画面：手机通知、会议室白板、数据看板实时更新。",
-      "camera_movement": "推拉结合，从用户特写拉至全景展示环境",
-      "transition": "匹配剪辑（动作衔接）+ 交叉溶解",
-      "visual_style_note": "暖色调为主，橙色与米色，自然光效，生活化氛围"
-    },
-    {
-      "shot_number": 5,
-      "duration_seconds": 5,
-      "scene": "结尾-品牌号召",
-      "visual_description": "产品Logo在黑色背景中以金属质感旋转出现，底部浮现品牌Slogan，字体带微光描边。背景音渐强后戛然而止。",
-      "camera_movement": "固定机位，Logo旋转动画",
-      "transition": "硬切至黑场",
-      "visual_style_note": "深黑背景，银白色Logo，极简主义，高反差"
-    }
-  ],
-  "transition_effects": [
-    "硬切：用于强对比场景，如开场到问题引入",
-    "溶解转场：用于情绪过渡，如焦虑到解决方案",
-    "闪白转场：用于瞬间反转，突出解决方案的震撼",
-    "匹配剪辑：用于动作衔接，增强视觉流畅性",
-    "交叉溶解：用于时间流逝或场景转换",
-    "黑场硬切：用于结尾，留下深刻印象"
-  ],
-  "visual_style_guidelines": {
-    "color_palette": "主色调：金色、霓虹蓝紫、深黑；辅助色：暖橙、米色",
-    "lighting": "电影级布光，开场用自然晨光，焦虑场景用硬光，科技场景用背光+环境光，生活场景用柔光",
-    "texture": "开场：玻璃反光质感；科技场景：粒子数字纹理；结尾：金属拉丝质感",
-    "typography": "结尾字体：无衬线加粗，微光描边，与Logo金属质感一致"
-  },
-  "creative_notes": "分镜头设计遵循‘情绪弧线’原则：从压抑（黑白冷调）到突破（彩色科技感）再到舒缓（生活暖调），最后回归品牌（极简质感），确保观众情感跟随叙事节奏。转场效果选择以叙事逻辑而非
+    "scenes": [
+      {
+        "scene_number": 1,
+        "duration_seconds": 8,
+        "description": "开篇：黑暗背景中，一束暖金光从左上角斜射入，照亮一个微缩城市模型。镜头从远景缓缓推近，聚焦在模型中心的一棵发光树。",
+        "audio": "低沉的弦乐渐强，伴随轻微的环境风声",
+        "transition": "淡入",
+        "visual_notes": "使用浅景深，树的光晕呈粒子效果"
+      },
+      {
+        "scene_number": 2,
+        "duration_seconds": 12,
+        "description": "中景：一双精致的手（肤色中性）从画面右侧伸入，轻触发光树，树瞬间绽放出彩色数据流，环绕双手旋转。数据流中浮现文字碎片（'创意'、'连接'、'成长'）。",
+        "audio": "节奏轻快的电子音加入，与弦乐融合",
+        "transition": "硬切，配合数据流爆发的瞬间",
+        "visual_notes": "手部特写用微距镜头，数据流为半透明全息风格"
+      },
+      {
+        "scene_number": 3,
+        "duration_seconds": 10,
+        "description": "快速蒙太奇（3个镜头）：1) 城市夜景中的霓虹灯牌，2) 办公室内团队围坐讨论，3) 无人机航拍穿过云层。每个镜头持续约3秒，色调从暖黄过渡到冷蓝再回暖金。",
+        "audio": "鼓点节奏增强，人声低语混响（听不清具体词汇）",
+        "transition": "交叉溶解，配合节奏点",
+        "visual_notes": "镜头1用变形宽银幕效果，镜头2用手持摄影感，镜头3用高饱和度滤镜"
+      },
+      {
+        "scene_number": 4,
+        "duration_seconds": 15,
+        "description": "回到主场景：发光树已长成参天大树，树冠覆盖整个城市模型。镜头从树冠俯拍，城市灯光如星河流淌。画面底部出现品牌Logo，以光晕形式逐渐清晰。",
+        "audio": "音乐达到高潮，弦乐与电子乐交织，渐弱至宁静",
+        "transition": "缓慢推远，叠加光晕淡入Logo",
+        "visual_notes": "树冠使用粒子系统模拟叶片运动，城市灯光为动态点光源"
+      },
+      {
+        "scene_number": 5,
+        "duration_seconds": 5,
+        "description": "黑屏，白色品牌Slogan逐字出现（'让每一束光，都有方向'），字体优雅纤细，每个字出现时伴有微弱的光晕脉冲。",
+        "audio": "音乐消失，只剩风声和远处钟声",
+        "transition": "淡出至黑屏，文字逐字淡入",
+        "visual_notes": "字体为无衬线体，字间距宽松，光晕脉冲与音频同步"
+      }
+    ],
+    "transition_summary": "以情感递进为导向：慢→快→慢，开篇沉静，中段节奏加快制造张力，结尾回归平和，强化品牌记忆",
+    "creative_notes": "整体视觉风格参考《银翼杀手2049》的克制美学与《你的名字》的色彩叙事，确保品牌辨识度与艺术感染力并存。"
+  }
+}

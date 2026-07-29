@@ -1,81 +1,98 @@
 ## seo_optimizer
-**任务:** 为集团官网gaigroupai.com的“AI劳动力租赁”产品页面撰写SEO优化方案，包括关键词策略和元描述。
+**Task:** Create an SEO strategy for the "AI Workforce Leasing" product page on gaigroupai.com, including keyword strategy and meta descriptions.
 
-好的，遵照您的指示。作为您的SEO内容优化专员，我将针对集团官网 gaigroupai.com 的“AI劳动力租赁”产品页面，制定一份专业的SEO优化方案。
+Here is the SEO strategy for the **"AI Workforce Leasing"** product page on **gaigroupai.com**.
 
----
-
-### 内容制作中心任务: “AI劳动力租赁”产品页面SEO优化方案
-
-**项目目标：** 通过对“AI劳动力租赁”产品页面进行SEO优化，提升其在搜索引擎结果页（SERP）中的自然排名，吸引高质量的目标流量，最终促进产品咨询与转化。
-
-**优化对象：** gaigroupai.com 的“AI劳动力租赁”产品页面（假设URL为 /ai-workforce-rental 或类似结构）。
+Given the highly competitive nature of "AI" and "Workforce" keywords, this strategy focuses on **Long-Tail, Intent-Based Keywords** and **Entity Optimization** to differentiate from generic staffing or software providers.
 
 ---
 
-### 一、 关键词策略
+### Part 1: Keyword Strategy
 
-本策略采用“核心词 + 长尾词 + 场景词”的矩阵，覆盖用户从认知到决策的不同阶段。
+**Primary Goal:** Target decision-makers (CTOs, VP of Ops, HR Directors) looking for flexible, non-human labor solutions rather than just "AI tools."
 
-#### 1. 核心关键词 (高搜索量，高竞争度)
-- **核心词:** AI劳动力租赁, AI员工租赁, 人工智能劳动力。
-- **策略:** 页面标题（Title）、一级标题（H1）及核心段落中必须包含。
-- **扩展词:** 企业AI员工, 智能劳动力外包。
+#### Tier 1: "Hero" Keywords (High Intent, Low Competition)
+*Target these for the H1 and Primary Meta Title.*
 
-#### 2. 长尾关键词 (精准流量，低竞争度，高转化率)
-- **痛点导向型:**
-    - 如何降低企业人力成本
-    - 企业临时AI员工解决方案
-    - 非核心业务AI自动化外包
-- **场景导向型:**
-    - 客服AI机器人租赁
-    - 数据标注AI员工租赁
-    - 内容生成AI员工租赁
-    - 代码开发AI员工租赁
-- **行业+AI租赁:**
-    - 电商AI劳动力租赁
-    - 金融行业AI员工外包
-    - 制造业AI劳动力解决方案
-- **策略:** 在H2/H3小标题、内容段落、甚至FAQ（常见问题解答）中自然融入。
+| Keyword | Search Intent | Why it works |
+| :--- | :--- | :--- |
+| **AI workforce leasing** | Transactional/Commercial | Exact match for your page name; low competition vs. "AI staffing." |
+| **Rent AI employees** | Transactional | High intent; implies short-term or project-based scaling. |
+| **Pay-as-you-go AI labor** | Transactional | Targets budget-conscious businesses avoiding capex. |
+| **On-demand AI agents** | Commercial | Focuses on flexibility and scalability. |
 
-#### 3. 问题关键词 (语音搜索与零点击搜索)
-- AI劳动力租赁多少钱？
-- AI员工租赁合法吗？
-- 企业如何租赁AI劳动力？
-- 租赁AI员工与招聘真人成本对比？
-- **策略:** 在页面中设置“FAQ Schema”结构化数据板块，直接回答这些问题。
+#### Tier 2: Problem/Solution Keywords (Educational)
+*Target these for H2s and Body Content.*
 
-#### 4. 语义相关与LSI关键词 (提升内容深度与相关性)
-- 人机协作, 业务流程自动化 (BPA), RPA (机器人流程自动化) 升级, 弹性用工, 数字员工。
-- **策略:** 在解释产品或服务优势时，自然穿插这些词汇。
+- **AI staff augmentation vs. hiring**
+- **How to scale operations with AI agents**
+- **Reduce labor costs with AI leasing**
+- **Virtual workforce for seasonal demand**
 
-**关键词部署矩阵表 (建议):**
+#### Tier 3: Long-Tail & Niche Keywords (Conversion Focused)
+*Target these for FAQ Schema and Conclusion paragraphs.*
 
-| 关键词类型 | 目标关键词示例 | 部署位置 | 优先级 |
-| :--- | :--- | :--- | :--- |
-| **核心词** | AI劳动力租赁 | Title, H1, Meta Description, URL, 首段 | ★★★★★ |
-| **长尾词1** | 企业临时AI员工解决方案 | H2, 内容段落 | ★★★★ |
-| **长尾词2** | 客服AI机器人租赁 | H2, 产品模块介绍 | ★★★★ |
-| **问题词** | AI劳动力租赁多少钱？ | FAQ板块 / 价格页入口 | ★★★ |
-| **LSI词** | 弹性用工, 数字员工 | 内容正文, 优势描述 | ★★★ |
+- **"Lease AI data entry clerks for 3 months"**
+- **"AI customer support agent rental for startups"**
+- **"No long-term contract AI workforce"**
+- **"Hourly rate for AI process automation agents"**
+
+#### Negative Keywords (Exclude from strategy)
+- *AI recruitment software* (You are not selling software to recruiters)
+- *Human temp agencies* (Differentiate from traditional staffing)
+- *Free AI tools* (Low value traffic)
 
 ---
 
-### 二、 页面元数据优化方案
+### Part 2: Meta Data Optimization
 
-#### 1. 标题标签 (Title Tag)
-- **格式:** 核心词 + 核心卖点 + 品牌词
-- **优化方案 (A/B 方案):**
-    - **方案A (推荐):** **AI劳动力租赁 | 弹性部署AI员工 | 降低企业成本50% - GAI Group**
-    - **方案B (更直接):** **企业AI劳动力租赁平台 | 按需租用数字员工 - gaigroupai.com**
-- **规则:**
-    - 长度控制在 **55-60个字符** 以内（含空格）。
-    - 核心词“AI劳动力租赁”必须靠前。
-    - 加入量化收益（如“降低企业成本50%”）或核心动作（如“弹性部署”）。
-    - 末尾用品牌名“- GAI Group”或“- gaigroupai.com”做信任背书。
+#### Page Title (Meta Title)
+*Length: ~55-60 characters*
 
-#### 2. 元描述 (Meta Description)
-- **格式:** 用户痛点/场景 + 产品解决方案 + 价值主张 + 行动号召
-- **优化方案:**
-    > **方案A (功能导向):**
-    > 告别高昂人力成本！GAI Group提供7x24小时在线的AI劳动力租赁服务。按需租用客服、数据、内容生成等AI员工，灵活扩容，即租即用。立即咨询，获取定制化AI
+**Option A (Direct & Actionable):**
+> AI Workforce Leasing | Rent AI Employees On-Demand | Gai Group AI
+
+**Option B (Problem Focused):**
+> Scale with AI Labor – No Hiring Fees | AI Workforce Leasing
+
+**Option C (Benefit Driven):**
+> Pay-as-You-Go AI Agents | Workforce Leasing Solutions
+
+**Recommendation:** **Option A** – It matches the page name, targets the primary keyword, and clearly states the value proposition.
+
+#### Meta Description
+*Length: ~150-160 characters. Must include a Call to Action (CTA).*
+
+**Draft:**
+> Lease AI talent on-demand without long-term commitments. Scale your operations with flexible, pay-as-you-go AI workforce leasing from Gai Group. Get started today.
+
+**Alternative (Benefit Stacking):**
+> Cut labor costs by 40% with our AI workforce leasing. Rent AI agents for customer support, data entry, and automation. No contracts. No overhead. Deploy instantly.
+
+---
+
+### Part 3: On-Page Content Strategy (Gap Analysis)
+
+To rank for these keywords, the page content must address the **objections** of leasing vs. buying vs. building.
+
+#### 1. H1 Heading
+- **Primary:** AI Workforce Leasing: Scale Your Team Without Headcount
+
+#### 2. H2 Subheadings (Supporting Keywords)
+- **H2:** What is AI Workforce Leasing?
+    - *Content:* Define it as "Renting AI agents for specific tasks/projects."
+- **H2:** Why Lease AI Talent Instead of Hiring Humans?
+    - *Content:* Compare cost, speed, and scalability. Target keyword: *AI staff augmentation vs. hiring.*
+- **H2:** Flexible Pricing: Pay-as-You-Go AI Labor
+    - *Content:* Explain the financial model (hourly, monthly, project-based).
+- **H2:** Common Use Cases for On-Demand AI Agents
+    - *Content:* List specific roles (Customer Support, Data Entry, Lead Gen, QA).
+- **H2:** How to Get Started with AI Workforce Leasing
+    - *Content:* Simple 3-step process (Consult -> Deploy -> Scale).
+
+#### 3. Body Content Keyword Integration
+- **First 100 words:** Must include *"AI workforce leasing"* and *"rent AI employees."*
+- **Middle section:** Use *"virtual workforce," "on-demand AI agents," "scale operations."*
+- **CTA section:** Use *"lease AI talent," "schedule a demo."*
+
+#### 4. Entity

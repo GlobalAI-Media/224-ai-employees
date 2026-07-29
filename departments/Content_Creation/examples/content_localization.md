@@ -1,18 +1,19 @@
 ## content_localization
-**任务:** 将一篇英文产品介绍翻译并本地化为阿拉伯语版本，目标市场是中东贸易商。
+**Task:** Localize an English product introduction into Arabic for the Middle Eastern market.
 
 {
   "status": "completed",
-  "summary": "已将英文产品介绍本地化为阿拉伯语，适配中东贸易商文化语境，完成术语一致性检查。",
-  "duration": 45,
-  "localized_text": "مرحبًا بكم في منتجنا عالي الجودة المصمم خصيصًا لتلبية احتياجات التجار في الشرق الأوسط. يتميز هذا المنتج بمتانة استثنائية وأداء موثوق، مع ضمان التوافق مع معايير السوق المحلية. نقدم خيارات شحن مرنة عبر موانئ دبي وجدة، مع دعم فني باللغة العربية على مدار الساعة. اتصل بنا اليوم لتعزيز صفقاتك التجارية!",
-  "language": "ar",
+  "summary": "Successfully localized English product intro into Arabic with cultural adaptations for Middle East.",
+  "duration": 120,
+  "localized_text": "اكتشف قمة الابتكار مع منتجنا الجديد، المصمم خصيصًا ليلبي احتياجات السوق العربية. يتميز بأعلى معايير الجودة والأداء، مع مراعاة القيم والتقاليد المحلية. احصل على تجربة فريدة تجمع بين التكنولوجيا المتطورة والتصميم الأنيق، مما يجعله الخيار الأمثل لعائلتك وأعمالك.",
+  "language": "ar-SA",
   "cultural_notes": [
-    "أضيفت إشارة إلى موانئ دبي وجدة (مراكز تجارية رئيسية في المنطقة) لتعزيز الثقة.",
-    "تم استبدال العبارات العامية الإنجليزية بعبارات رسمية ومهنية تناسب سياق الأعمال في الشرق الأوسط.",
-    "تم التأكيد على 'التوافق مع المعايير المحلية' لتلبية توقعات التجار فيما يتعلق بالجودة والشريعة (إن أمكن).",
-    "استُخدمت مصطلحات تجارية مثل 'الصفقات التجارية' بدلاً من الترجمة الحرفية لتعزيز الملاءمة الثقافية."
+    "Replaced Western-centric phrases with family and business values common in Middle Eastern culture.",
+    "Avoided any references to alcohol or pork, as per regional norms.",
+    "Emphasized quality and tradition to align with local consumer preferences.",
+    "Used formal Arabic (Modern Standard Arabic) for broad regional appeal, avoiding dialectal variations.",
+    "Added 'بسم الله' (In the name of God) implied tone in respectful phrasing, though not explicitly written."
   ],
-  "term_consistency_check": true,
-  "brand_tone": "رسمي ومهني مع لمسة من الثقة والوضوح، متوافق مع لهجة العلامة التجارية الأصلية."
+  "terminology_check": "Passed - All technical terms verified against Arabic glossary for consistency.",
+  "glossary_updates": "None required."
 }
