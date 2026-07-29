@@ -28,6 +28,7 @@ graph TD
     CEO --> ThinkTank[Think Tank]
     CEO --> Tree[Knowledge Tree]
 
+---
 📊 18 Departments at a Glance
 Department	Focus	Key Roles
 CEO Office	Strategic command center	CEO, COO, Chief of Staff, Strategy Assistant
