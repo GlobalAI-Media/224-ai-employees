@@ -85,13 +85,14 @@ graph TD
 
 | Tool | Description |
 |------|-------------|
-| **trade-doc-generator** *(coming soon)* | Auto-generate export trade documents from CLI |
+| **trade-doc-generator** *(coming soon)* | 	AI-powered trade document toolkit: generate invoices, scan contracts, match templates. |
 
 ---
 
 ## 📡 Connect With Us
 
 - 🌐 Website: [gaigroupai.com](https://gaigroupai.com)
+- 📝 Dev.to: How 224 AI Employees Power a Global Trade OS
 - 📺 YouTube: [@gaigroupai](https://www.youtube.com/@gaigroupai)
 - 📱 TikTok: [@ug.thhj](https://tiktok.com/@ug.thhj)
 - 📘 Facebook: [Global AI Media](https://facebook.com/profile.php?id=61591527873733)
