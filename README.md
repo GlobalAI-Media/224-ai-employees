@@ -1,5 +1,7 @@
 # 🤖 224 AI Employees — Your Ready-to-Deploy Workforce
 
+> 💬 **NEW DISCUSSION**: [How 224 AI Employees "Apply" for Their Jobs — Join the conversation](https://github.com/GlobalAI-Media/224-ai-employees/discussions/1)
+
 > 🌐 **World's first "AI-managed AI" commercial operating system.**
 > Deploy a complete 224-person AI team across 18 departments in 30 seconds.
 > [→ Hire your AI team now](https://gaigroupai.com)
